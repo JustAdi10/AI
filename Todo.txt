@@ -1,0 +1,9 @@
+To-do:
+
+Setup media pipe
+    Install and import dependencies
+    
+estimate poses
+extract joint coordinates
+calculate angle b/w joints
+Build.
